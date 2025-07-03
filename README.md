@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey, I'm Alam Mulla<br>Flutter developer | Problem solver | Always building something cool 🚀<br><br>💡 I love turning ideas into polished apps — especially with Flutter. Whether it’s maps, overlays, state management, or fine-tuning UX, I’m all about clean code and real results. You’ll usually find me deep in Dart, fixing bugs with a smile 😄, or pushing the limits of what Flutter can do.<br><br>📁 This repo is one piece of a bigger story — keep exploring.
+👋 Hey, I'm Alamgir Mulla<br>But you can call me Alam<br>Flutter developer | Problem solver | Always building something cool 🚀<br><br>💡 I love turning ideas into polished apps — especially with Flutter. Whether it’s maps, overlays, state management, or fine-tuning UX, I’m all about clean code and real results. You’ll usually find me deep in Dart, fixing bugs with a smile 😄, or pushing the limits of what Flutter can do.<br><br>📁 This repo is one piece of a bigger story — keep exploring.
 
 
 ## 🌐 Socials:
